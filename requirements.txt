@@ -1,2 +1,5 @@
-googlemaps
-
+streamlit
+pandas
+folium
+streamlit-folium
+Pillow
